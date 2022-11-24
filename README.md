@@ -41,14 +41,8 @@
 - [MAS 1.5 AIO CRC32 21D20776](https://github.com/BsNgChiThanh/Tools-Active/files/10080356/MAS.1.5.AIO.CRC32.21D20776.txt)
 - [MAS 1.7 AIO.txt](https://github.com/BsNgChiThanh/Tools-Active/files/10080392/MAS.1.7.AIO.txt)
 
+## CÀI OFFICE TRỰC TUYẾN ##
 
-
-
-
-
-
-
-
-
-
+- [Office Tools](https://otp.landian.vip/en-us/download.html)
+- [Office 2019, 2021 LTSC, 365 Enterprise](https://1drv.ms/u/s!AkwSBX-xWiVhiUu0ZzmqcrRnTjOl?e=h1Gdm3)
 
