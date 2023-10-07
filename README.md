@@ -12,7 +12,7 @@ Tác giả: Nguyễn Chí Thành
 6. [Password: congdongbatdongsan _ Windows Loader](https://1drv.ms/u/s!AkwSBX-xWiVhgQu-I420iwQ6dbG9?e=WiMBxQ)
 7. [Office Tools](https://1drv.ms/u/s!AkwSBX-xWiVhg3aNEuRYre0bC3u0?e=op3csV), trang chủ [Office Tools](https://otp.landian.vip/en-us/download.html)
 8. [Backup Activation Office and Windows](https://github.com/BsNgChiThanh/Tools-Active/files/10080337/Backup.Activation.Office.and.Windows.zip)
-9. [Dism++10.1.1001.10.zip](https://github.com/BsNgChiThanh/Tools-Active/files/10080339/Dism%2B%2B10.1.1001.10.zip)
+9. [Dism++](https://1drv.ms/f/s!AkwSBX-xWiVhi3gfqanLd8yzBNnL?e=dhIW3J)
 
 ## TOOLS cmd ##
 - [Xem hạn sử dụng Windows](https://github.com/BsNgChiThanh/Tools-Active/files/10080374/Xem.h.n.s.d.ng.Windows.txt)
