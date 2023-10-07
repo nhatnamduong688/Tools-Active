@@ -4,7 +4,7 @@ Tác giả: Nguyễn Chí Thành
 
 # TOOLS ACTIVE ##
 
-1. Activate AIO Tools V3.1.3 download load [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhgRd0JjLFtBI15zkG?e=vEI2Fi) hoặc [tại đây](https://terabox.com/s/13P3xesHNYPyTc1w95XZh5w)
+1. Activate AIO Tools download load [tại đây](https://1drv.ms/f/s!AkwSBX-xWiVhjWszo-4pM2IUu9W0?e=YP5kDx) hoặc [tại đây](https://terabox.com/s/1aFPP-6jhC552GJfVIh08pw)
 2. Activation Tools 24h download load [tại đây](https://github.com/BsNgChiThanh/Tools-Active/files/10080296/ActivationTool.24h.zip) hoặc [tại đây](https://terabox.com/s/1rFFq9bXdW3X2MJFvK2G7NA)
 3. KMS VL ALL AIO download load [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhiUOElDhoWwYkV9io?e=Dq5QjD) hoặc [tại đây](https://terabox.com/s/1lwGqZzoPYo7Vfz9uQGQfcw), trang [github](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases)
 4. [MAS](https://1drv.ms/u/s!AkwSBX-xWiVhiT-3r9nKNHt51gBx?e=AW6yWY), trang [github](https://github.com/massgravel/Microsoft-Activation-Scripts/tree/master/MAS)
