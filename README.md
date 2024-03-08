@@ -7,7 +7,7 @@ Tác giả: Nguyễn Chí Thành
 1. Activate AIO Tools download load [tại đây](https://1drv.ms/f/s!AkwSBX-xWiVhjWszo-4pM2IUu9W0?e=YP5kDx) hoặc [tại đây](https://terabox.com/s/1aFPP-6jhC552GJfVIh08pw)
 2. Activation Tools 24h download load [tại đây](https://github.com/BsNgChiThanh/Tools-Active/files/10080296/ActivationTool.24h.zip) hoặc [tại đây](https://terabox.com/s/1rFFq9bXdW3X2MJFvK2G7NA)
 3. KMS VL ALL AIO download load [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhiUOElDhoWwYkV9io?e=Dq5QjD) hoặc [tại đây](https://terabox.com/s/1lwGqZzoPYo7Vfz9uQGQfcw), trang [github](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases)
-4. [MAS](https://1drv.ms/u/s!AkwSBX-xWiVhiT-3r9nKNHt51gBx?e=AW6yWY), trang [github](https://github.com/massgravel/Microsoft-Activation-Scripts/tree/master/MAS)
+4. [MAS](https://1drv.ms/u/s!AkwSBX-xWiVhiT-3r9nKNHt51gBx?e=AW6yWY), trang [github](https://github.com/massgravel/Microsoft-Activation-Scripts/tree/master/MAS) hoặc MAS trực tuyến bằng cách vô **Windows PowerShell** bấm chuột phải và **Run Administrator** sau đó copy dòng lệnh này: **irm https://massgrave.dev/get | iex** dán vào và nhấn enter, làm the hướng dẫn của cửa sổ là xong.
 5. W10 Digital License Activation Script, download [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhiUaSUP5VaBEpk6Vn?e=Ly8MdC) hoặc [tại đây](https://terabox.com/s/1yTGROWkMs1lld4sCR5Wn2w)
 6. [Password: congdongbatdongsan _ Windows Loader](https://1drv.ms/u/s!AkwSBX-xWiVhgQu-I420iwQ6dbG9?e=WiMBxQ)
 7. [Office Tools](https://1drv.ms/u/s!AkwSBX-xWiVhg3aNEuRYre0bC3u0?e=op3csV), trang chủ [Office Tools](https://otp.landian.vip/en-us/download.html)
