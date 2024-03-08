@@ -25,6 +25,7 @@ Tác giả: Nguyễn Chí Thành
 ### Office ###
 
 - [Active Office 365 Mondo](https://github.com/BsNgChiThanh/Tools-Active/files/10080348/Active.Office.365.Mondo.txt)
+- MAS Tool mới nhất Active Office mọi phiên bản từ 2013 trở đi download [tại đây](https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master)
 - [MAS 1.5 AIO CRC32 21D20776](https://github.com/BsNgChiThanh/Tools-Active/files/10080356/MAS.1.5.AIO.CRC32.21D20776.txt)
 - [MAS 1.7 AIO.txt](https://github.com/BsNgChiThanh/Tools-Active/files/10080392/MAS.1.7.AIO.txt)
 - [Office 2016](https://github.com/BsNgChiThanh/Tools-Active/files/10080362/Office.2016.txt)
@@ -36,6 +37,7 @@ Tác giả: Nguyễn Chí Thành
 
 ### Windows ###
 
+- MAS Tool mới nhất Active mọi windows từ 8.1 trở đi download [tại đây](https://codeload.github.com/massgravel/Microsoft-Activation-Scripts/zip/refs/heads/master)
 - [Active Windows 7](https://github.com/BsNgChiThanh/Tools-Active/files/10080351/Active.Windows.7.txt)
 - [Active Windows 8 và 8.1](https://github.com/BsNgChiThanh/Tools-Active/files/10080352/Active.Windows.8.va.8.1.txt)
 - [Active Windows 10](https://github.com/BsNgChiThanh/Tools-Active/files/10080354/Active.Windows.10.txt)
